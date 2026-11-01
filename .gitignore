@@ -1,0 +1,6 @@
+/bin/
+/settlement
+coverage.out
+*.test
+.idea/
+.vscode/
